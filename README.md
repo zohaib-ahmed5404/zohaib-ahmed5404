@@ -11,7 +11,10 @@ Passionate about coding and constantly learning new technologies. I love turning
 
 
 Languages: C++, Python
-Web Development: HTML, CSS, Frontend Development, Web Design
-Graphic Design: Adobe Photoshop, Illustrator
+
+Web Development: HTML, CSS
+
+Web Design: Figma
+
 Digital Marketing: Facebook Ads, E-commerce Strategy, Social Media Marketing, Video Editing
 `
