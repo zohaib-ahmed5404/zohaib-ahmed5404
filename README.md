@@ -1,7 +1,7 @@
 👋 Hi, I'm Zohaib Ahmed
 
 🎓 Computer Science Student at the University of Central Punjab (UCP), Lahore
-🔍 Aspiring Software Developer | Frontend Developer | UI/UX Designer
+🔍 Aspiring Software Developer | Mobile app Developer | UI/UX Designer
 
 🚀 About Me
 
@@ -10,11 +10,11 @@ Passionate about coding and constantly learning new technologies. I love turning
 🛠 Skills & Technologies
 
 
-Languages: C++, Python
+Languages: C++, Python, Dart 
 
 Web Development: HTML, CSS
 
 Web Design: Figma
 
-Digital Marketing: Facebook Ads, E-commerce Strategy, Social Media Marketing, Video Editing
+Digital Marketing: Facebook Ads, E-commerce Strategy, Social Media Marketing, poster Editing
 `
